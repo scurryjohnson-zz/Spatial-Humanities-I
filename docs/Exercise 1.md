@@ -8,4 +8,13 @@ Before you create story map, you'll first create a map of fatalities that occurr
 
 2. Open the file and explore the data.
 
-!(https://github.com/scurryjohnson/Spatial-Humanities-I/blob/master/assets/1.png)
+The spreadsheet contains a wide variety of information regarding fatalities during the 1916 Easter Rising.
+
+3.  Scroll to the right of the spreadsheet until you locate the Place of Death Latitude and Place of Death Longitude fields.
+
+These fields give the geographic coordinates of each fatality. You'll use these fields when geocoding the spreadsheet to display the fatality locations on a map.
+
+**Time to Create the Map!!**
+
+1.  Sign in to ArcGIS Online (if you do not have a login create a free one now)
+![alt text](https://github.com/scurryjohnson/Spatial-Humanities-I/blob/master/assets/2.png "Menu")
