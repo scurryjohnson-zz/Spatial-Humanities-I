@@ -8,4 +8,4 @@ Before you create story map, you'll first create a map of fatalities that occurr
 
 2. Open the file and explore the data.
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+https://github.com/scurryjohnson/Spatial-Humanities-I/blob/master/asset/1.png
